@@ -1,3 +1,3 @@
 hello
 
-Int numOfStudents = 33;
+Int numOfStudents2 = 33;
